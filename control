@@ -1,0 +1,9 @@
+Package: com.netskao.wechatdragdropimages
+Name: WeChatDragDropImages
+Version: 1.1-2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 14.0)
+Description: WeChat Chat Drag and Drop Images, Only 8.0.50+
+Author: Netskao
+Maintainer: Nets
+Section: Netskao-Tweaks
