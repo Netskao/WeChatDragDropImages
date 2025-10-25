@@ -32,6 +32,7 @@
     [sharePreConfirmSheetView setDelegate:self];
     [sharePreConfirmSheetView setTitle:@"是否发送以下图片?"];
     [sharePreConfirmSheetView setArrMsgs:msgArr];
+    [sharePreConfirmSheetView setBShowTextView:NO];
     [sharePreConfirmSheetView showFromViewController:self animated:YES complete:nil];
     }];
 }
